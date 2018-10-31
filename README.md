@@ -2,11 +2,11 @@
 
 ## Purpose
 
-It push the logs [nginx-proxy] (https://github.com/jwilder/nginx-proxy) into elastic.
+It push the logs [nginx-proxy](https://github.com/jwilder/nginx-proxy) into elastic.
 
 ## docker image
 
-It is based on [the official image of fluentd] (https://hub.docker.com/r/fluent/fluentd/).
+It is based on [the official image of fluentd](https://hub.docker.com/r/fluent/fluentd/).
 
 Additionally installed plugins:
 
